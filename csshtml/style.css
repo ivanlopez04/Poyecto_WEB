@@ -1,0 +1,27 @@
+.logoimg{
+    width: 10vh;
+    height: 10vh;     
+};
+.nombre_empre{
+    text-align: right;
+    
+};
+/*
+form{
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+};
+
+.cuestionario{
+    align-content: space-around;
+};
+.form-container{
+    max-width:700px;
+    margin: 0 auto;
+  }*/
